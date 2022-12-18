@@ -1,0 +1,13 @@
+.starting {
+  margin-top: 150px;
+
+  display: flex;
+  background-color: beige;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.starting h1 {
+  font-size: 5rem;
+}
