@@ -8,7 +8,7 @@ import { AuthContextProvider } from "./store/auth-context";
 
 ReactDOM.render(
   <AuthContextProvider>
-    <BrowserRouter>
+    <BrowserRouter basename="/OnlineEditor">
       <App />
     </BrowserRouter>
   </AuthContextProvider>,

@@ -14,7 +14,7 @@ function App() {
   return (
     <Layout>
       <Switch>
-        <Route path="/" exact>
+        <Route exact path="/">
           <HomePage />
         </Route>
         {!authCtx.isLoggedIn && (
