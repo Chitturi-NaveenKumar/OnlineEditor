@@ -63,7 +63,7 @@ function HomePageEditor() {
           onClear={onClearHandler}
         />
       </div>
-      <div>
+      <div className="pane">
         <iframe
           srcDoc={srcDoc}
           sandbox="allow-scripts"
