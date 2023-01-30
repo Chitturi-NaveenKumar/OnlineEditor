@@ -1,4 +1,4 @@
-# SlackClone-React
+# CodePen-Clone-React
 
 ## _Online Editor developed using Reactjs_
 
